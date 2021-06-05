@@ -10,7 +10,8 @@ These files have been tested and used to generate a live ELK deployment on Azure
   
   root@37b2349d9d8b:/etc/ansible/roles
   
-  
+  <img width="374" alt="Screen Shot 2021-06-05 at 7 18 28 PM" src="https://user-images.githubusercontent.com/85391715/120907919-ae030f80-c633-11eb-9830-4f291adc24b3.png">
+
   
   FILEBEAT PLAYBOOK
   
