@@ -10,14 +10,15 @@ These files have been tested and used to generate a live ELK deployment on Azure
   
   root@37b2349d9d8b:/etc/ansible/roles
   
-  <img width="374" alt="Screen Shot 2021-06-05 at 7 18 28 PM" src="https://user-images.githubusercontent.com/85391715/120907919-ae030f80-c633-11eb-9830-4f291adc24b3.png">
+  <img width="418" alt="Screen Shot 2021-06-05 at 7 28 35 PM" src="https://user-images.githubusercontent.com/85391715/120907989-4b5e4380-c634-11eb-98d6-8b4f6233cb9f.png">
 
   
   FILEBEAT PLAYBOOK
   
   root@37b2349d9d8b:/etc/ansible/roles/filebeat-playbook.yml
   
-  
+  <img width="657" alt="Screen Shot 2021-06-05 at 7 27 05 PM" src="https://user-images.githubusercontent.com/85391715/120907964-19e57800-c634-11eb-961b-5c3ad10fe1e7.png">
+
   
   
 This document contains the following details:
